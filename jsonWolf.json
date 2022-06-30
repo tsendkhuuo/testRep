@@ -17,6 +17,15 @@
             "Price": "2000000",
             "Color": "grey",
             "Image": "https://d2ce5ozwkwiyrb.cloudfront.net/640w/mnft_wolves/5/images/765.png"
+        },
+        {
+            "Number": "#17366",
+            "Face": "Angry - 20.39%",
+            "Fur": "Grey - 20.04%",
+            "Nose": "Normal - 96.10%",
+            "Price": "2000000",
+            "Color": "grey",
+            "Image": "https://d2ce5ozwkwiyrb.cloudfront.net/640w/mnft_wolves/5/images/766.png"
         }
     ]
 }
